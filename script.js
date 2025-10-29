@@ -167,4 +167,7 @@ console.log(q13.toLowerCase())
     //  Q NUMBER 20
     let twenty = "coding is cool";
     console.log(twenty.slice(0,6));
+
+
+
     
